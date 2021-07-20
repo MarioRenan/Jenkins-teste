@@ -1,6 +1,8 @@
 {
   "summary": {
-    "title": "teste"
+    "title": "teste",
+    "description": "tes",
+    "owner": "teste"
   },
   "detail": {
     "contributors": [
@@ -8,6 +10,13 @@
         "name": "Mario"
       }
     ],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "teste",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "teste"
   }
 }
